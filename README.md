@@ -8,6 +8,6 @@ TASK 1: To run the GetData.m to get data( max and min size, form factor and the 
 
 TASK 2: To run the Split_into_validation
 
-TASK 3: To run this task (that is in color_segmentation folder) you have to run the ColorSegmentation.m
+TASK 3: To run this task (that is in Color folder) you have to use the function ColorSegmentation.m
 
 TASK 4: Run Task4.m in the task4 floder
