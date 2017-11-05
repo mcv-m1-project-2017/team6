@@ -19,7 +19,7 @@ function TrafficSignDetection(directory, window_method, decision_method)
         files1(i,1:9)=files(i).name;
      end
      
-     for i=32:size(files1,1)
+     for i=1:size(files1,1)
         %Read color images
         image=imread([directory,files1(i,:),'.jpg']);
         if strcmp(window_method,'SegmentationCCL')
